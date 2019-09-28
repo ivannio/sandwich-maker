@@ -1,3 +1,21 @@
 body {
     background-color: rgb(168, 213, 255);
 }
+
+h1 {
+    text-align: center;
+}
+
+.ingredients {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.order {
+    display: flex;
+    justify-content: center;
+}
+
+#final-order {
+    border: solid black 2px;
+}
