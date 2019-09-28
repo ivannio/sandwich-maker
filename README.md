@@ -4,7 +4,7 @@
  Use this application to select sandwich toppings and create a final order with the selected ingredients and final price
 
 ## Screenshots
-
+![sandwich-maker preview](https://raw.githubusercontent.com/ivannio/sandwich-maker/master/screenshots/screenshot.png)
 
 ## How To Run
 * Clone this GitHub Repo
