@@ -21,7 +21,7 @@ const getSelectedCheeses = () => {
 };
 
 const cheesePrinter = () => {
-    let stringToPrint = '';
+    let stringToPrint = '<h3>Cheese</h3>';
     for (let i = 0; i < cheeses.length; i++) {
         stringToPrint += `<div class="form-group form-check">
         <input type="checkbox" class="form-check-input cheese" id="${cheeses[i].id}">
